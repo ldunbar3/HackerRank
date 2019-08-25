@@ -1,6 +1,6 @@
 Solution area for HackerRank's Tutorials:  
-* [10 Days of of Statistics] (https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-* [30 Days of Code] (https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+* [10 Days of of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 ```bash
 HackerRank
