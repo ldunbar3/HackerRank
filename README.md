@@ -5,9 +5,12 @@ URL: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
 HackerRank
 ├── README.md
 └── Tutorials
-    └── 10_Days_Of_Statistics
-        ├── Day_0_Mean_Median_Mode.py
-        └── Day_0_Weighted_Mean.py
+    ├── 10_Days_Of_Statistics
+    │   ├── Day_0_Mean_Median_Mode.py
+    │   ├── Day_0_Weighted_Mean.py
+    │   └── Day_1_Interquartile_Range.py
+    └── 30_Days_Of_Code
+        └── Day_0_Hello_World.py
 
-2 directories, 3 files
+3 directories, 5 files
 ```
